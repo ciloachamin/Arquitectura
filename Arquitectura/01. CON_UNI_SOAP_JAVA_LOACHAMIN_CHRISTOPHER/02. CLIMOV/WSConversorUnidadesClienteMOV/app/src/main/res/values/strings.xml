@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor de Longitud</string>
+    <string-array name="unidades">
+        <item>metro</item>
+        <item>kilometro</item>
+        <item>centimetro</item>
+        <item>milla</item>
+        <!-- Agrega otras unidades si el servicio las soporta -->
+    </string-array>
+</resources>

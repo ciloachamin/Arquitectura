@@ -1,0 +1,12 @@
+ec\edu\monster\ws\ObjectFactory.class
+ec\edu\monster\ws\WSConversorLongitud_Service.class
+ec\edu\monster\servicios\LoginServicio.class
+ec\edu\monster\servicios\ConversorLongitudServicio.class
+ec\edu\monster\controlador\LoginControlador.class
+ec\edu\monster\ws\package-info.class
+ec\edu\monster\controlador\ConversorLongitudControlador.class
+ec\edu\monster\modelos\dtos\ConversionResponse.class
+ec\edu\monster\ws\ConvertirLongitudResponse.class
+ec\edu\monster\ws\ConvertirLongitud.class
+ec\edu\monster\modelos\dtos\ConversionRequest.class
+ec\edu\monster\ws\WSConversorLongitud.class

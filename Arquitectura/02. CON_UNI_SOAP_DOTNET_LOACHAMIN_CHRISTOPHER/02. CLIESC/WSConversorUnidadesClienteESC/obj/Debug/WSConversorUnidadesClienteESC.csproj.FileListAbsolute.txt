@@ -1,0 +1,12 @@
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\bin\Debug\WSConversorUnidadesClienteESC.exe.config
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\bin\Debug\WSConversorUnidadesClienteESC.exe
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\bin\Debug\WSConversorUnidadesClienteESC.pdb
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.csproj.AssemblyReference.cache
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.Form1.resources
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.Properties.Resources.resources
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.Vista.LoginForm.resources
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.Vista.MainForm.resources
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.csproj.GenerateResource.cache
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.csproj.CoreCompileInputs.cache
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.exe
+C:\Monster\Arquitectura\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\02. CLIESC\WSConversorUnidadesClienteESC\obj\Debug\WSConversorUnidadesClienteESC.pdb

@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\01. servidor\\ws_conuni_soapdotnet\\ws_conuni_soapdotnet\\conversorlongitudservicio.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\conversorlongitudservicio.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\iconversorlongitudservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\iconversorlongitudservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\wsconversorunidadesclientecon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\ws_conuni_soapdotnet\\modelos\\longitudmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2851BD4A-B225-4430-9821-2E909355BC26}|WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET.csproj|solutionrelative:ws_conuni_soapdotnet\\modelos\\longitudmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\controllers\\conversorlongitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\vista\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}|..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\WSConversorUnidadesClienteESC.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliesc\\wsconversorunidadesclienteesc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\vistas\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\controladores\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\controladores\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\modelos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\connected services\\conversorlongitudservicioreferencia\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}|..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. clicon\\wsconversorunidadesclientecon\\connected services\\conversorlongitudservicioreferencia\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\views\\conversorlongitud\\convertir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAFCADF-6AD9-4E68-A192-4C5A788FDAC8}|..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\WSConversorUnidadesClienteWEB.csproj|c:\\monster\\arquitectura\\02. con_uni_soap_dotnet_loachamin_christopher\\02. cliweb\\wsconversorunidadesclienteweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [16x16, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\favicon.ico",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\favicon.ico",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [16x16, 32 bits, BMP]",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [16x16, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-11T13:29:35.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorLongitudServicio.svc.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\ConversorLongitudServicio.svc.cs",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\ConversorLongitudServicio.svc.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\ConversorLongitudServicio.svc.cs",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\ConversorLongitudServicio.svc.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAlwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:17:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\packages.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\packages.config",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T13:19:54.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Web.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Web.config",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T20:39:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConversorLongitudServicio.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\IConversorLongitudServicio.cs",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\IConversorLongitudServicio.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\IConversorLongitudServicio.cs",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\IConversorLongitudServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:15:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:33:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Web.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Web.config",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T13:19:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T13:19:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.Debug.config",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\Web.Debug.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.Debug.config",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T13:20:02.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:30:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.config",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\Web.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.config",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T20:21:56.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.Release.config",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\Web.Release.config",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Web.Release.config",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-11T13:19:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LongitudModelo.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Modelos\\LongitudModelo.cs",
+              "RelativeDocumentMoniker": "WS_ConUni_SOAPDOTNET\\Modelos\\LongitudModelo.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_SOAPDOTNET\\WS_ConUni_SOAPDOTNET\\Modelos\\LongitudModelo.cs",
+              "RelativeToolTip": "WS_ConUni_SOAPDOTNET\\Modelos\\LongitudModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:19:02.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T20:48:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WSConversorUnidadesClienteCON.csproj",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\WSConversorUnidadesClienteCON.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T22:20:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.Designer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:12:41.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:00:24.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:12:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:12:33.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Program.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Program.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:38:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.resx",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.resx",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.resx",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-11T00:12:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConversorLongitudController.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\ConversorLongitudController.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\ConversorLongitudController.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\ConversorLongitudController.cs",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\ConversorLongitudController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:41:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:04:26.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.resx",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.resx",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.resx",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-11T00:05:29.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Vista\\LoginForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:01:02.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:38:07.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\02. CLIESC\\WSConversorUnidadesClienteESC\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:19:06.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Vistas\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Vistas\\ConsoleView.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Vistas\\ConsoleView.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Vistas\\ConsoleView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:22:31.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\Reference.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\Reference.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\Reference.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:04:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConversionController.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\ConversionController.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\ConversionController.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\ConversionController.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\ConversionController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:40:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\AuthController.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Controladores\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:23:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Modelos\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Modelos\\User.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Modelos\\User.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Modelos\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:21:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Program.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Program.cs",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:30:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\ConnectedService.json",
+              "RelativeDocumentMoniker": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\ConnectedService.json",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\ConnectedService.json",
+              "RelativeToolTip": "..\\..\\02. CLICON\\WSConversorUnidadesClienteCON\\Connected Services\\ConversorLongitudServicioReferencia\\ConnectedService.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T22:46:35.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T20:48:54.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T20:59:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:45:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Convertir.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\ConversorLongitud\\Convertir.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\ConversorLongitud\\Convertir.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\ConversorLongitud\\Convertir.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\ConversorLongitud\\Convertir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T20:49:48.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T20:48:56.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Monster\\Arquitectura\\02. CON_UNI_SOAP_DOTNET_LOACHAMIN_CHRISTOPHER\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\02. CLIWEB\\WSConversorUnidadesClienteWEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:40:33.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

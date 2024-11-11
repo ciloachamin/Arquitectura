@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ec.edu.monster.vistas.MainActivity"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="32dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Conversor de Unidades"
+            android:textSize="24sp"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:layout_marginBottom="32dp"
+            android:gravity="center"/>
+
+        <EditText
+            android:id="@+id/valorInput"
+            style="@style/EditTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:hint="Introduce el valor"
+            android:inputType="numberDecimal"
+            android:layout_marginBottom="16dp"/>
+
+        <Spinner
+            android:id="@+id/unidadOrigenSpinner"
+            style="@style/SpinnerStyle"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:entries="@array/unidades"
+            android:layout_marginBottom="16dp"/>
+
+        <Spinner
+            android:id="@+id/unidadDestinoSpinner"
+            style="@style/SpinnerStyle"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:entries="@array/unidades"
+            android:layout_marginBottom="32dp"/>
+
+        <Button
+            android:id="@+id/convertirButton"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="Convertir"/>
+
+        <TextView
+            android:id="@+id/resultView"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:text="Resultado:"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="32dp"
+            android:paddingTop="16dp"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
