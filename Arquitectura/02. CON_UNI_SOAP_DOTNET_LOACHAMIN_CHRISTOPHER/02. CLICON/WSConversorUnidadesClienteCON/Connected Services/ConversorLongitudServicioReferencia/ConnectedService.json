@@ -1,7 +1,7 @@
 {
   "ExtendedData": {
     "inputs": [
-      "http://localhost:42436/ConversorLongitudServicio.svc"
+      "http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc"
     ],
     "collectionTypes": [
       "System.Array",

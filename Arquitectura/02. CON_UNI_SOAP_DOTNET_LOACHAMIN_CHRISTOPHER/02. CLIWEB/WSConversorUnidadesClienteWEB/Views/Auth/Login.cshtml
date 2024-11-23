@@ -1,22 +1,31 @@
 ﻿@{
     ViewBag.Title = "Login";
 }
+<h2 class="text-center my-4">Iniciar Sesión</h2>
 
-<h2>Iniciar Sesión</h2>
+<form method="post" action="/Auth/Login" class="card mx-auto p-4 shadow-sm" style="max-width: 400px;">
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger text-center mb-3" role="alert">
+            <i class="fas fa-exclamation-circle me-2"></i>@ViewBag.Error
+        </div>
+    }
 
-@if (ViewBag.Error != null)
-{
-    <div style="color: red;">@ViewBag.Error</div>
-}
-
-<form method="post" action="/Auth/Login">
-    <div>
-        <label for="username">Usuario:</label>
-        <input type="text" id="username" name="username" required />
+    <div class="form-group mb-3">
+        <label for="username" class="form-label">Usuario:</label>
+        <div class="input-group">
+            <span class="input-group-text"><i class="fas fa-user"></i></span>
+            <input type="text" id="username" name="username" class="form-control" placeholder="Usuario" required />
+        </div>
     </div>
-    <div>
-        <label for="password">Contraseña:</label>
-        <input type="password" id="password" name="password" required />
+
+    <div class="form-group mb-4">
+        <label for="password" class="form-label">Contraseña:</label>
+        <div class="input-group">
+            <span class="input-group-text"><i class="fas fa-lock"></i></span>
+            <input type="password" id="password" name="password" class="form-control" placeholder="Contraseña" required />
+        </div>
     </div>
-    <button type="submit">Ingresar</button>
+
+    <button type="submit" class="btn btn-primary w-100">Ingresar <i class="fas fa-arrow-right ms-2"></i></button>
 </form>

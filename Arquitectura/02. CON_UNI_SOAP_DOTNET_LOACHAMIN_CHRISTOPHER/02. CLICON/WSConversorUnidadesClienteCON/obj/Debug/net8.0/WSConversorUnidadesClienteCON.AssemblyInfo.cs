@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WSConversorUnidadesClienteCON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f9e4af58ff482bf21fc316063c1677f173081d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WSConversorUnidadesClienteCON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WSConversorUnidadesClienteCON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

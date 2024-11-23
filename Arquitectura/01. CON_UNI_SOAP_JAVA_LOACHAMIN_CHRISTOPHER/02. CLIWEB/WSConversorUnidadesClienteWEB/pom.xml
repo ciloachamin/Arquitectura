@@ -131,6 +131,38 @@
                         <id>wsimport-generate-WSConversorLongitud</id>
                         <phase>generate-sources</phase>
                     </execution>
+                    <execution>
+                        <goals>
+                            <goal>wsimport</goal>
+                        </goals>
+                        <configuration>
+                            <wsdlFiles>
+                                <wsdlFile>localhost_8080/WS_ConUni_SOAPJAVA/WSLogin.wsdl</wsdlFile>
+                            </wsdlFiles>
+                            <vmArgs>
+                                <vmArg>-Djavax.xml.accessExternalSchema=all</vmArg>
+                            </vmArgs>
+                            <staleFile>${project.build.directory}/jaxws/stale/WSLogin.stale</staleFile>
+                        </configuration>
+                        <id>wsimport-generate-WSLogin</id>
+                        <phase>generate-sources</phase>
+                    </execution>
+                    <execution>
+                        <goals>
+                            <goal>wsimport</goal>
+                        </goals>
+                        <configuration>
+                            <wsdlFiles>
+                                <wsdlFile>localhost_8080/WS_ConUni_SOAPJAVA/WSLogin.wsdl</wsdlFile>
+                            </wsdlFiles>
+                            <vmArgs>
+                                <vmArg>-Djavax.xml.accessExternalSchema=all</vmArg>
+                            </vmArgs>
+                            <staleFile>${project.build.directory}/jaxws/stale/WSLogin_1.stale</staleFile>
+                        </configuration>
+                        <id>wsimport-generate-WSLogin_1</id>
+                        <phase>generate-sources</phase>
+                    </execution>
                 </executions>
                 <dependencies>
                     <dependency>

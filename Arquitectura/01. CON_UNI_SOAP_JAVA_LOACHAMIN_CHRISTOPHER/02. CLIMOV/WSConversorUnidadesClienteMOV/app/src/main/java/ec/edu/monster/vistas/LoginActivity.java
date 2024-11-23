@@ -14,8 +14,8 @@ import ec.edu.monster.wsconversorunidadesclientemov.R;
 public class LoginActivity extends AppCompatActivity {
 
     // Datos de usuario quemados (predefinidos)
-    private final String USERNAME = "admin";
-    private final String PASSWORD = "123456";
+    private final String USERNAME = "MONSTER";
+    private final String PASSWORD = "MONSTER9";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

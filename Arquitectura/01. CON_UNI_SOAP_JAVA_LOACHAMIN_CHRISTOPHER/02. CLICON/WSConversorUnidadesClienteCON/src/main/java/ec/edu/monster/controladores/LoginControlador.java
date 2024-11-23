@@ -8,12 +8,14 @@ package ec.edu.monster.controladores;
  *
  * @author chris
  */
-
+import ec.edu.monster.servicios.LoginServicio;
 import ec.edu.monster.vistas.LoginVista;
 
 public class LoginControlador {
 
     private LoginVista vista;
+    private boolean resultado;
+    private LoginServicio servicio;
 
     public LoginControlador(LoginVista vista) {
         this.vista = vista;
@@ -22,7 +24,9 @@ public class LoginControlador {
     public boolean autenticarUsuario(String usuario, String contraseña) {
         // Aquí deberías realizar la validación contra una base de datos o un sistema de autenticación
         // Para este ejemplo, validamos con un usuario y contraseña fijos:
-        return usuario.equals("admin") && contraseña.equals("123456");
+         servicio = new LoginServicio();
+        resultado = servicio.validarCredenciales(usuario,contraseña);
+        return resultado;
     }
 
     public void iniciarSesion() {

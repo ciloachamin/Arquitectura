@@ -21,6 +21,18 @@ public class LoginVista extends javax.swing.JFrame {
         this.setLocationRelativeTo(null);
     }
 
+    public javax.swing.JButton getBtnLogin() {
+        return btnLogin;
+    }
+
+    public javax.swing.JTextField getTxtUser() {
+        return txtUser;
+    }
+
+    public javax.swing.JPasswordField getTxtPassword() {
+        return txtPassword;
+    }
+
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -157,34 +169,12 @@ public class LoginVista extends javax.swing.JFrame {
     private void btnLoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLoginActionPerformed
         // TODO add your handling code here:
         // Obtiene los valores de usuario y contraseña ingresados
-        String username = txtUser.getText();
-        String password = new String(txtPassword.getPassword());
-
-        // Verifica si coinciden con los datos quemados
-        if (username.equals("admin") && password.equals("123456")) {
-            // Muestra mensaje de éxito
-            javax.swing.JOptionPane.showMessageDialog(this, "Inicio de sesión exitoso", "Éxito", javax.swing.JOptionPane.INFORMATION_MESSAGE);
-
-            // Abre otra ventana (por ejemplo, `ConversorLongitudVista`)
-            ConversorLongitudVista conversorUnidadesVista = new ConversorLongitudVista();
-            ConversorLongitudServicio servicio = new ConversorLongitudServicio();
-            ConversorControlador controlador = new ConversorControlador(conversorUnidadesVista, servicio);
-            conversorUnidadesVista.setVisible(true);
-
-            // Cierra la ventana de inicio de sesión actual
-            this.dispose();
-        } else {
-            // Muestra un mensaje de error si las credenciales son incorrectas
-            javax.swing.JOptionPane.showMessageDialog(this, "Usuario o contraseña incorrectos", "Error", javax.swing.JOptionPane.ERROR_MESSAGE);
-        }
-
 
     }//GEN-LAST:event_btnLoginActionPerformed
 
     private void txtPasswordActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPasswordActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_txtPasswordActionPerformed
-
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

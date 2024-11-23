@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_ConUni_SOAPDOTNET.ec.edu.monster.servicios.LoginServicio" CodeBehind="LoginServicio.svc.cs" %>

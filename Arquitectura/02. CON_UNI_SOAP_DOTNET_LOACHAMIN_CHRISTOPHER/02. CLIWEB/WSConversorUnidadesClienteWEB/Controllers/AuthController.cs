@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
+using WSConversorUnidadesClienteWEB.LoginServicioReferencia;
+
 
 namespace WSConversorUnidadesClienteWEB.Controllers
 {
@@ -18,19 +17,31 @@ namespace WSConversorUnidadesClienteWEB.Controllers
         [HttpPost]
         public ActionResult Login(string username, string password)
         {
-            // Datos quemados para autenticación
-            const string validUsername = "admin";
-            const string validPassword = "123456";
-
-            if (username == validUsername && password == validPassword)
+            try
             {
-                // Crear una sesión para el usuario autenticado
-                Session["Username"] = username;
-                return RedirectToAction("Convertir", "ConversorLongitud");
+                // Crear una instancia del cliente del servicio
+                using (var loginServiceClient = new LoginServicioClient())
+                {
+                    // Llamar al método de autenticación del servicio
+                    bool isAuthenticated = loginServiceClient.Login(username, password);
+
+                    if (isAuthenticated)
+                    {
+                        // Crear una sesión para el usuario autenticado
+                        Session["Username"] = username;
+                        return RedirectToAction("Convertir", "ConversorLongitud");
+                    }
+                }
+
+                // Mensaje de error si la autenticación falla
+                ViewBag.Error = "Nombre de usuario o contraseña incorrectos";
+            }
+            catch (Exception ex)
+            {
+                // Manejar errores del servicio
+                ViewBag.Error = $"Ocurrió un error al intentar autenticarse: {ex.Message}";
             }
 
-            // Mensaje de error si la autenticación falla
-            ViewBag.Error = "Nombre de usuario o contraseña incorrectos";
             return View();
         }
 

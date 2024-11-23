@@ -152,7 +152,7 @@ namespace ConversorLongitudServicioReferencia
         {
             if ((endpointConfiguration == EndpointConfiguration.BasicHttpBinding_IConversorLongitudServicio))
             {
-                return new System.ServiceModel.EndpointAddress("http://localhost:42436/ConversorLongitudServicio.svc");
+                return new System.ServiceModel.EndpointAddress("http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc");
             }
             throw new System.InvalidOperationException(string.Format("No se pudo encontrar un punto de conexión con el nombre \"{0}\".", endpointConfiguration));
         }

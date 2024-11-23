@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSConversorUnidadesClienteW
 		{2851BD4A-B225-4430-9821-2E909355BC26} = {2851BD4A-B225-4430-9821-2E909355BC26}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSConversorUnidadesClienteCON", "..\..\02. CLICON\WSConversorUnidadesClienteCON\WSConversorUnidadesClienteCON.csproj", "{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSConversorUnidadesClienteCON", "..\..\02. CLICON\WSConversorUnidadesClienteCON\WSConversorUnidadesClienteCON.csproj", "{FB09D165-CF92-4AA8-ACFC-CE0A5F737D86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSConversorUnidadesClienteESC", "..\..\02. CLIESC\WSConversorUnidadesClienteESC\WSConversorUnidadesClienteESC.csproj", "{543441EC-6F9F-4BAD-A7E4-F160341D2D3D}"
 	ProjectSection(ProjectDependencies) = postProject

@@ -39,6 +39,6 @@ public class ConversorLongitudControlador extends HttpServlet {
         }
 
         // Redirigir a la página de resultados
-        request.getRequestDispatcher("resultadoLongitud.jsp").forward(request, response);
+        request.getRequestDispatcher("convertirLongitud.jsp").forward(request, response);
     }
 }

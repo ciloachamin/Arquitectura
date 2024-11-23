@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgN7OpGZMmc=",
+  "success": true,
+  "projectFilePath": "C:\\Monster\\Arquitectura\\04. CON_UNI_RESTFULL_DOTNET_LOACHAMIN_CHRISTOPHER\\01. SERVIDOR\\WS_ConUni_RESTFulDOTNET\\WS_ConUni_RESTFulDOTNET\\WS_ConUni_RESTFulDOTNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\mstest.testframework\\3.6.3\\mstest.testframework.3.6.3.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

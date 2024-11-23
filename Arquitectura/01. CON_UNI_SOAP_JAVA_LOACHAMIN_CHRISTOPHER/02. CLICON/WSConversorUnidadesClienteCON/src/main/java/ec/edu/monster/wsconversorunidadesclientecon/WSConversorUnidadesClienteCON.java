@@ -6,6 +6,7 @@ package ec.edu.monster.wsconversorunidadesclientecon;
 import ec.edu.monster.controladores.ConversorLongitudControlador;
 import ec.edu.monster.controladores.LoginControlador;
 import ec.edu.monster.modelos.ConversorLongitudModelo;
+import ec.edu.monster.servicios.LoginServicio;
 import ec.edu.monster.vistas.ConversorLongitudVista;
 import ec.edu.monster.vistas.LoginVista;
 
@@ -18,6 +19,7 @@ public class WSConversorUnidadesClienteCON {
     public static void main(String[] args) {
         // Crear objetos para el inicio de sesión
         LoginVista loginVista = new LoginVista();
+        LoginServicio loginServicio = new LoginServicio();
         LoginControlador loginControlador = new LoginControlador(loginVista);
         
         // Iniciar sesión

@@ -15,5 +15,6 @@ Any value defined here will override the pom.xml file value but is only applicab
 -->
         <org-netbeans-modules-maven-jaxws._5f_C_5f_WSConversorLongitud>http://localhost:8080/WS_ConUni_SOAPJAVA/WSConversorLongitud?wsdl</org-netbeans-modules-maven-jaxws._5f_C_5f_WSConversorLongitud>
         <netbeans.hint.jdkPlatform>JDK_1.8</netbeans.hint.jdkPlatform>
+        <org-netbeans-modules-maven-jaxws._5f_C_5f_WSLogin>http://localhost:8080/WS_ConUni_SOAPJAVA/WSLogin?wsdl</org-netbeans-modules-maven-jaxws._5f_C_5f_WSLogin>
     </properties>
 </project-shared-configuration>

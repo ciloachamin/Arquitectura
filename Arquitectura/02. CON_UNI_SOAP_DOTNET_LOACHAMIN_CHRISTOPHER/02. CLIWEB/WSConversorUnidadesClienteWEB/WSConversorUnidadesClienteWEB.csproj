@@ -17,7 +17,7 @@
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
-    <Use64BitIISExpress />
+    <Use64BitIISExpress>false</Use64BitIISExpress>
     <IISExpressSSLPort>44398</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -127,9 +127,13 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="Connected Services\LoginServicioReferencia\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\ConversorLongitudController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -140,6 +144,13 @@
     <None Include="Connected Services\ConversorLongitudServicioReferencia\configuration91.svcinfo" />
     <None Include="Connected Services\ConversorLongitudServicioReferencia\configuration.svcinfo" />
     <None Include="Connected Services\ConversorLongitudServicioReferencia\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\LoginServicioReferencia\LoginServicio.disco" />
+    <None Include="Connected Services\LoginServicioReferencia\configuration91.svcinfo" />
+    <None Include="Connected Services\LoginServicioReferencia\configuration.svcinfo" />
+    <None Include="Connected Services\LoginServicioReferencia\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
@@ -175,6 +186,13 @@
     <None Include="Connected Services\ConversorLongitudServicioReferencia\ConversorLongitudServicio1.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Connected Services\LoginServicioReferencia\LoginServicio.wsdl" />
+    <None Include="Connected Services\LoginServicioReferencia\LoginServicio.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\LoginServicioReferencia\LoginServicio1.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Scripts\jquery-3.7.0-vsdoc.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -186,6 +204,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Views\Shared\StyleSheet1.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -197,14 +216,12 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Auth\Login.cshtml" />
     <Content Include="Views\ConversorLongitud\Convertir.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="ec.edu.monster.pruebas\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
@@ -239,6 +256,7 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Connected Services\ConversorLongitudServicioReferencia\" />
+    <WCFMetadataStorage Include="Connected Services\LoginServicioReferencia\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

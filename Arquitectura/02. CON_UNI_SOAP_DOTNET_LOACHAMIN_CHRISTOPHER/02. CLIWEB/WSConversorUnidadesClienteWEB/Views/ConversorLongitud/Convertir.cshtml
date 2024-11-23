@@ -1,34 +1,37 @@
-﻿@model double?
-@{
-    ViewBag.Title = "Convertir Longitud";
-}
+﻿<h2 class="text-center my-4">Convertir Longitud</h2>
 
-<h2>Convertir Longitud</h2>
+<form method="post" action="/ConversorLongitud/Convertir" class="card mx-auto p-4 shadow-sm" style="max-width: 400px;">
+    <div class="form-group mb-3">
+        <label for="valor" class="form-label">Valor:</label>
+        <input type="number" step="0.01" id="valor" name="valor" class="form-control" placeholder="Introduce un valor" required />
+    </div>
 
-<form method="post" action="/ConversorLongitud/Convertir">
-    <label for="valor">Valor:</label>
-    <input type="number" step="0.01" id="valor" name="valor" required />
+    <div class="form-group mb-3">
+        <label for="unidadOrigen" class="form-label">Unidad Origen:</label>
+        <select id="unidadOrigen" name="unidadOrigen" class="form-select">
+            <option value="metro">Metro</option>
+            <option value="kilometro">Kilómetro</option>
+            <option value="centimetro">Centímetro</option>
+            <option value="milla">Milla</option>
+        </select>
+    </div>
 
-    <label for="unidadOrigen">Unidad Origen:</label>
-    <select id="unidadOrigen" name="unidadOrigen">
-        <option value="metro">Metro</option>
-        <option value="kilometro">Kilómetro</option>
-        <option value="centimetro">Centímetro</option>
-        <option value="milla">Milla</option>
-    </select>
+    <div class="form-group mb-4">
+        <label for="unidadDestino" class="form-label">Unidad Destino:</label>
+        <select id="unidadDestino" name="unidadDestino" class="form-select">
+            <option value="metro">Metro</option>
+            <option value="kilometro">Kilómetro</option>
+            <option value="centimetro">Centímetro</option>
+            <option value="milla">Milla</option>
+        </select>
+    </div>
 
-    <label for="unidadDestino">Unidad Destino:</label>
-    <select id="unidadDestino" name="unidadDestino">
-        <option value="metro">Metro</option>
-        <option value="kilometro">Kilómetro</option>
-        <option value="centimetro">Centímetro</option>
-        <option value="milla">Milla</option>
-    </select>
-
-    <button type="submit">Convertir</button>
+    <button type="submit" class="btn btn-primary w-100">Convertir</button>
 </form>
 
 @if (ViewBag.Resultado != null)
 {
-    <h3>Resultado: @ViewBag.Resultado</h3>
+    <div class="alert alert-success text-center mt-4">
+        <h3>Resultado: @ViewBag.Resultado</h3>
+    </div>
 }

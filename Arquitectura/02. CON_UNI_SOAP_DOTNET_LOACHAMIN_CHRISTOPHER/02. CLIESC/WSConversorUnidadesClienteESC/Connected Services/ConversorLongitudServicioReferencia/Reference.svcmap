@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="d6aa02b3-c9c8-48bb-9752-a59703b6705e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="988fed72-bd96-4ca9-839b-766d0b1f33e7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -19,13 +19,13 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:42436/ConversorLongitudServicio.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="ConversorLongitudServicio.wsdl" MetadataType="Wsdl" ID="83d57cec-529c-45b7-824f-8e7451833369" SourceId="1" SourceUrl="http://localhost:42436/ConversorLongitudServicio.svc?wsdl" />
-    <MetadataFile FileName="ConversorLongitudServicio.xsd" MetadataType="Schema" ID="59a6b262-507e-44c2-b8f6-0e38eb78e38a" SourceId="1" SourceUrl="http://localhost:42436/ConversorLongitudServicio.svc?xsd=xsd1" />
-    <MetadataFile FileName="ConversorLongitudServicio1.xsd" MetadataType="Schema" ID="5fab7dcf-5c18-460a-8fd6-b9c7b96f579e" SourceId="1" SourceUrl="http://localhost:42436/ConversorLongitudServicio.svc?xsd=xsd0" />
-    <MetadataFile FileName="ConversorLongitudServicio.disco" MetadataType="Disco" ID="89dcb903-8a0a-47ff-91a9-5a169961733e" SourceId="1" SourceUrl="http://localhost:42436/ConversorLongitudServicio.svc?disco" />
+    <MetadataFile FileName="ConversorLongitudServicio.disco" MetadataType="Disco" ID="278c6d18-1ebf-4995-af8e-635d75b777a9" SourceId="1" SourceUrl="http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc?disco" />
+    <MetadataFile FileName="ConversorLongitudServicio.wsdl" MetadataType="Wsdl" ID="d8a93252-bfb8-4abf-971d-be7f9fb16779" SourceId="1" SourceUrl="http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc?wsdl" />
+    <MetadataFile FileName="ConversorLongitudServicio.xsd" MetadataType="Schema" ID="9f9fe4cf-715b-43ea-a7bb-33dc0197a01b" SourceId="1" SourceUrl="http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc?xsd=xsd1" />
+    <MetadataFile FileName="ConversorLongitudServicio1.xsd" MetadataType="Schema" ID="e0986e76-373b-47af-8de2-52f28b0bbfe8" SourceId="1" SourceUrl="http://localhost:42436/ec.edu.monster.servicios/ConversorLongitudServicio.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
