@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Realizar Depósitos</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <style>
+            body {
+                background-image: url('https://i.pinimg.com/736x/5f/b1/2f/5fb12f3cc8ee5b6daee13b6b00c8ea0f.jpg');
+                background-size: auto 50%; /* Ajusta el tamaño de la imagen de fondo */
+                background-repeat: repeat; /* Repetir la imagen tanto horizontal como verticalmente */
+                background-attachment: fixed; /* Fija la imagen de fondo */
+                color: white; /* Color de texto blanco */
+            }
+            .navbar-nav .nav-link {
+                padding: 0;
+            }
+            .navbar-nav .nav-item {
+                margin-right: 10px;
+            }
+            .navbar-nav .nav-item:last-child {
+                margin-right: 0;
+            }
+            .navbar-nav .nav-item .menu-item {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .navbar-nav .nav-item .menu-item img {
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+                border-radius: 50%;
+            }
+            .navbar-nav .nav-item .menu-item p {
+                margin-top: 10px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+            .container {
+                margin-top: 50px;
+            }
+            .form-group {
+                margin-bottom: 20px;
+            }
+            .btn-submit {
+                margin-top: 20px;
+            }
+            #resultado {
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">
+                            <div class="menu-item">
+                                <p>Inicio</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="realizarConsultas.html">
+                            <div class="menu-item">
+                                <p>Realizar Consultas</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="realizarDepósitos.html">
+                            <div class="menu-item">
+                                <p>Realizar Depósitos</p>
+                            </div>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <h2>Realizar Depósitos</h2>
+            <form id="depositoForm">
+                <div class="form-group">
+                    <label for="cuentaInput">Número de Cuenta:</label>
+                    <input type="text" class="form-control" id="cuentaInput" name="cuenta" required>
+                </div>
+                <div class="form-group">
+                    <label for="importeInput">Importe:</label>
+                    <input type="number" step="0.01" class="form-control" id="importeInput" name="importe" required>
+                </div>
+                <button type="submit" class="btn btn-primary btn-submit">Realizar Depósito</button>
+            </form>
+            <div id="resultado"></div>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="js/realizar_depósito.js"></script>
+    </body>
+</html>

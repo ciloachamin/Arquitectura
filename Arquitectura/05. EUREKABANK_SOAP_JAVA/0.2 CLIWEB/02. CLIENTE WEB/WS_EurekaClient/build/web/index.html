@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Menú</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <style>
+            body {
+                background-image: url('https://i.pinimg.com/736x/5f/b1/2f/5fb12f3cc8ee5b6daee13b6b00c8ea0f.jpg');
+                background-size: auto 50%; /* Ajusta el tamaño de la imagen de fondo */
+                background-repeat: repeat; /* Repetir la imagen tanto horizontal como verticalmente */
+            }
+            h1 {
+                color: black; /* Color del texto */
+                background-color: #f2f2f2; /* Color de fondo gris claro */
+                padding: 10px; /* Espacio alrededor del texto para separarlo del borde */
+                display: inline-block; /* Hace que el fondo se ajuste al contenido */
+                border-radius: 5px; /* Borde redondeado */
+            }
+            h2 {
+                color: black; /* Color del texto */
+                background-color: #f2f2f2; /* Color de fondo gris claro */
+                padding: 5px; /* Espacio alrededor del texto para separarlo del borde */
+                display: inline-block; /* Hace que el fondo se ajuste al contenido */
+                border-radius: 5px; /* Borde redondeado */
+                font-size: 24px; /* Tamaño de fuente más pequeño */
+                margin-top: 5px; /* Margen superior para separarlo del h1 */
+            }
+            .navbar-nav .nav-link {
+                padding: 0;
+            }
+            .navbar-nav .nav-item {
+                margin-right: 10px;
+            }
+            .navbar-nav .nav-item:last-child {
+                margin-right: 0;
+            }
+            .navbar-nav .nav-item .menu-item {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .navbar-nav .nav-item .menu-item img {
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+                border-radius: 50%;
+            }
+            .navbar-nav .nav-item .menu-item p {
+                margin-top: 10px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+            .center-image {
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+            }
+            .center-image img {
+                max-width: 700px;
+                max-height: 700px;
+                object-fit: contain;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">
+                            <div class="menu-item">
+                                <p>Inicio</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="realizarConsultas.html">
+                            <div class="menu-item">
+                                <p>Realizar Consultas</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="realizarDepósitos.html">
+                            <div class="menu-item">
+                                <p>Realizar Depósitos</p>
+                            </div>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+        <div class="center-image">
+            <h1>EurekaBank Monster SOAP Grupo 6</h1>
+        </div>
+        <div class="center-image">
+            <h2>Pérez - Sandoval</h2>
+        </div>
+        <div class="center-image">
+            <img src="img/monster.jpeg" alt="Imagen">
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    </body>
+</html>

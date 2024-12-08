@@ -1,0 +1,14 @@
+ec\edu\monster\pruebas\PruebaConexionDB.class
+ec\edu\monster\servicios\ConversorLongitudServicio.class
+ec\edu\monster\servicios\AuthService.class
+ec\edu\monster\pruebas\Prueba01.class
+ec\edu\monster\servicios\EurekaService.class
+ec\edu\monster\ws\WSEureka.class
+ec\edu\monster\modelos\LongitudModelo.class
+ec\edu\monster\modelos\Movimiento.class
+ec\edu\monster\ws\WSLogin.class
+ec\edu\monster\servicios\NewWebService.class
+ec\edu\monster\db\AccesoDB.class
+ec\edu\monster\pruebas\PruebaLogin.class
+ec\edu\monster\pruebas\PruebaMovimiento.class
+ec\edu\monster\ws\WSConversorLongitud.class

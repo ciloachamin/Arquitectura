@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consulta de Movimientos Bancarios</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-image: url('https://i.pinimg.com/736x/5f/b1/2f/5fb12f3cc8ee5b6daee13b6b00c8ea0f.jpg');
+            background-size: auto 50%; /* Ajusta el tamaño de la imagen de fondo */
+            background-repeat: repeat; /* Repetir la imagen tanto horizontal como verticalmente */
+            background-attachment: fixed; /* Fija la imagen de fondo */
+            color: white; /* Color de texto blanco */
+        }
+        /* Estilos personalizados */
+        .navbar-nav .nav-link {
+            padding: 0;
+        }
+        .navbar-nav .nav-item {
+            margin-right: 10px;
+        }
+        .navbar-nav .nav-item:last-child {
+            margin-right: 0;
+        }
+        .navbar-nav .nav-item .menu-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .navbar-nav .nav-item .menu-item img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        .navbar-nav .nav-item .menu-item p {
+            margin-top: 10px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .container {
+            margin-top: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .table-responsive {
+            margin-top: 30px;
+        }
+        /* Estilo para las filas impares */
+        .table-striped tbody tr:nth-child(odd) {
+            background-color: #333333; /* Gris oscuro */
+        }
+        /* Estilo para las filas pares */
+        .table-striped tbody tr:nth-child(even) {
+            background-color: #444444; /* Gris más oscuro */
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">
+                        <div class="menu-item">
+                            <p>Inicio</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="realizarConsultas.html">
+                        <div class="menu-item">
+                            <p>Realizar Consultas</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="realizarDepósitos.html">
+                        <div class="menu-item">
+                            <p>Realizar Depósitos</p>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h2 class="mb-4">Consulta de Movimientos Bancarios</h2>
+
+        <!-- Formulario para ingresar cuenta y consultar -->
+        <form id="consultaMovimientosForm">
+            <div class="form-group row">
+                <label for="cuentaInput" class="col-sm-2 col-form-label">Cuenta:</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="cuentaInput" name="cuenta" placeholder="Ingrese número de cuenta">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4">
+                    <button type="submit" class="btn btn-primary">Consultar Movimientos</button>
+                </div>
+            </div>
+        </form>
+
+        <!-- Tabla para mostrar movimientos -->
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Número de Movimiento</th>
+                        <th>Fecha</th>
+                        <th>Tipo</th>
+                        <th>Acción</th>
+                        <th>Importe</th>
+                        <th>Referencia</th>
+                    </tr>
+                </thead>
+                <tbody id="movimientosTableBody">
+                    <!-- Aquí se llenarán los datos de la tabla con JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <!-- Script personalizado para manejar la consulta de movimientos -->
+    <script src="js/consulta_movimiento.js"></script>
+</body>
+</html>

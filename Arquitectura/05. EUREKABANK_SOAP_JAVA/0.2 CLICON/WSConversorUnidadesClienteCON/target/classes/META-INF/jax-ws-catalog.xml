@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WS_ConUni_SOAPJAVA/WSConversorLongitud?wsdl" uri="wsdl/localhost_8080/WS_ConUni_SOAPJAVA/WSConversorLongitud.wsdl"/>
+    <system systemId="http://localhost:8080/WS_ConUni_SOAPJAVA/WSConversorLongitud?xsd=1" uri="wsdl/localhost_8080/WS_ConUni_SOAPJAVA/WSConversorLongitud.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WS_ConUni_SOAPJAVA/WSLogin?wsdl" uri="wsdl/localhost_8080/WS_ConUni_SOAPJAVA/WSLogin.wsdl"/>
+    <system systemId="http://localhost:8080/WS_ConUni_SOAPJAVA/WSLogin?xsd=1" uri="wsdl/localhost_8080/WS_ConUni_SOAPJAVA/WSLogin.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WS_EUREKA_SOAPJAVA-1/WSLogin?wsdl" uri="wsdl/localhost_8080/WS_EUREKA_SOAPJAVA-1/WSLogin.wsdl"/>
+    <system systemId="http://localhost:8080/WS_EUREKA_SOAPJAVA-1/WSLogin?xsd=1" uri="wsdl/localhost_8080/WS_EUREKA_SOAPJAVA-1/WSLogin.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WS_EUREKA_SOAPJAVA-1/WSEureka?wsdl" uri="wsdl/localhost_8080/WS_EUREKA_SOAPJAVA-1/WSEureka.wsdl"/>
+    <system systemId="http://localhost:8080/WS_EUREKA_SOAPJAVA-1/WSEureka?xsd=1" uri="wsdl/localhost_8080/WS_EUREKA_SOAPJAVA-1/WSEureka.xsd_1.xsd"/>
+</catalog>
